@@ -1,1 +1,1 @@
-https://github.com/mphoramodike08/sticky_notes_django
+https://github.com/mphoramodike08/django_project
